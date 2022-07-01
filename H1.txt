@@ -1,0 +1,347 @@
+https://hackerone.com/reports/2224
+https://hackerone.com/reports/29331
+https://hackerone.com/reports/825646
+https://hackerone.com/reports/114799
+https://hackerone.com/reports/163815
+https://hackerone.com/reports/742
+https://hackerone.com/reports/15476
+https://hackerone.com/reports/314808
+https://hackerone.com/reports/272839
+https://hackerone.com/reports/83667
+https://hackerone.com/reports/17474
+https://hackerone.com/reports/12457
+https://hackerone.com/reports/12506
+https://hackerone.com/reports/12613
+
+
+https://hackerone.com/reports/1222873
+https://hackerone.com/reports/1551176
+https://hackerone.com/reports/1461194
+https://hackerone.com/reports/671406
+https://hackerone.com/reports/968165
+
+
+https://hackerone.com/reports/1527405 
+
+
+
+
+
+[
+    {
+        "name": "SESSID",
+        "value": "gwtvWSPiyMP29Eu9A5G0H4ZXkW0",
+        "domain": "www.kraken.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 2285832106,
+        "storeId": null
+    },
+    {
+        "name": "_gid",
+        "value": "GA1.2.712399362.1655091714",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1655198568,
+        "storeId": null
+    },
+    {
+        "name": "_gat",
+        "value": "1",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1655112228,
+        "storeId": null
+    },
+    {
+        "name": "_clsk",
+        "value": "x5j666|1655111955137|2|1|m.clarity.ms/collect",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1655198355,
+        "storeId": null
+    },
+    {
+        "name": "_clck",
+        "value": "1mxdweo|1|f2a|0",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1686645971,
+        "storeId": null
+    },
+    {
+        "name": "cf_clearance",
+        "value": "IebfQcVJQBpTzSKzQsx4J4kAEYOFoylwvsIJxxptXAU-1655111825-0-150",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1686651547,
+        "storeId": null
+    },
+    {
+        "name": "_gcl_au",
+        "value": "1.1.1538055695.1654682954",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1662458954,
+        "storeId": null
+    },
+    {
+        "name": "ajs_anonymous_id",
+        "value": "e8727d7a-f517-489a-ab41-4d070f456037",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1686648167,
+        "storeId": null
+    },
+    {
+        "name": "ajs_user_id",
+        "value": "6fc2091c1af6c657f4a5a6487fcf87d1108d",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1686648167,
+        "storeId": null
+    },
+    {
+        "name": "__ssid",
+        "value": "5b143b9c0bc5f451ff677ba95a223f0",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1780913298,
+        "storeId": null
+    },
+    {
+        "name": "__cf_bm",
+        "value": "m9PkfvBccGjqCqZWBJnBOvmfKuDqsUxTms9d_rj4VcU-1655111972-0-Ab6rC0By3GKMtrjunIHY2q+fpXul1Atm2zRDrJ7iHJF8FTEpNEFsXrCc0quKGcgaYcru9wh9fI5gESqwwKIY6cE=",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1655113772,
+        "storeId": null
+    },
+    {
+        "name": "asid",
+        "value": "YHo4eVPUxEQxY6zlRPClVUpfr7m9d3anazdqca2StrM",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": true,
+        "httpOnly": false,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 2145916920,
+        "storeId": null
+    },
+    {
+        "name": "__cfruid",
+        "value": "d3eed8c14c6263bce86911751a3ab8d7c588c807-1655111972",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "no_restriction",
+        "session": true,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "storeId": null
+    },
+    {
+        "name": "__zlcmid",
+        "value": "1ANkzA23aJur89U",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1686648168,
+        "storeId": null
+    },
+    {
+        "name": "_ga",
+        "value": "GA1.2.925188267.1654682897",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1718184168,
+        "storeId": null
+    },
+    {
+        "name": "_rdt_uuid",
+        "value": "1654682953590.e2054409-743c-4692-aa2b-999ca90b651a",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": true,
+        "httpOnly": false,
+        "sameSite": "strict",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1662888142,
+        "storeId": null
+    },
+    {
+        "name": "_uetsid",
+        "value": "c4b24ba0eaca11ec960bb739f8fd1255",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1655198540,
+        "storeId": null
+    },
+    {
+        "name": "_uetvid",
+        "value": "c5e996a0cb9311ecb7e553a6fcbd8e76",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1688808140,
+        "storeId": null
+    },
+    {
+        "name": "dev",
+        "value": "BIoGpsHG7bfnwLBdj5Y_nO_UUMot_v3aPfGVFTY6igU",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 2145916920,
+        "storeId": null
+    },
+    {
+        "name": "mp_1522ade22fc700818eb9a2a1fb58271e_mixpanel",
+        "value": "%7B%22distinct_id%22%3A%20%221814be98ff01022-0587c8f8eee9ad-26021b51-232800-1814be98ff11012%22%2C%22%24device_id%22%3A%20%221814be98ff01022-0587c8f8eee9ad-26021b51-232800-1814be98ff11012%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fsupport.kraken.com%2Fhc%2Fen-us%2Farticles%2F360021870651-Securing-your-email-address%22%2C%22%24initial_referring_domain%22%3A%20%22support.kraken.com%22%2C%22%24search_engine%22%3A%20%22google%22%7D",
+        "domain": ".kraken.com",
+        "hostOnly": false,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "no_restriction",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1686384155,
+        "storeId": null
+    },
+    {
+        "name": "segment_tracking_preferences",
+        "value": "%7B%22Google%20Analytics%22%3Atrue%2C%22Mixpanel%22%3Atrue%2C%22Optimizely%22%3Atrue%2C%22Bing%22%3Atrue%2C%22Twitter%22%3Atrue%2C%22LinkedIn%22%3Atrue%2C%22Reddit%22%3Atrue%2C%22ImpactRadius%22%3Atrue%7D",
+        "domain": "www.kraken.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1686379856,
+        "storeId": null
+    }
+]
+
+
